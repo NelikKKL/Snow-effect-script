@@ -6,6 +6,7 @@
 Подключить: https://github.com/NelikKKL/Snow-effect-script/blob/main/Snow.js
 
 # Пример
+P.s они движуться
 
 ![Компьютер](img.jpg)
 
