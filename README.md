@@ -4,6 +4,9 @@
 снежинки одаптируються под размер устройства
 
 Подключить: https://github.com/NelikKKL/Snow-effect-script/blob/main/Snow.js
+
+# Пример
+
 ![Компьютер](img.jpg)
 
 
